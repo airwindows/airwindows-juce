@@ -1,0 +1,2 @@
+Mental note: old school Airwindows uses 'master' for repo, but airwindows-juce was created as 'main'.
+So, you use git pull origin main to pull from the repo
